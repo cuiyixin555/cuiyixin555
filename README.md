@@ -7,6 +7,7 @@
 - 📖 Check my publications: [google scholar](https://scholar.google.com/citations?hl=en&user=EwhA8I4AAAAJ)
 - 📖 Check my projects:
     - [camera-cuda](https://github.com/cuiyixin555/camera-cuda)
+    - [camera-supp](https://github.com/cuiyixin555/camera-supp)
     - [cmake_demo](https://github.com/cuiyixin555/cmake_demo)
 - 📖 Check books source code:
     - [GPU-Parallel-Program-Development-Using-CUDA](https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA)
