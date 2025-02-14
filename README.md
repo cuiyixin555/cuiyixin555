@@ -21,7 +21,7 @@
     <h5>- 👨🏼‍💻 I am a computer vision engineer at Intel Vision Tech Group (VTG), Intel China Research Center Co., Ltd.</h5>
     <h5>- 🔭 I’m currently working on GPU camera pipeline image processing with Level Zero, C for Metal (CM), DirectX11, DirectX12 and CUDA.</h5>
     <h5>- 🚀 Most of my projects are open-sourced at GitHub</h5>
-    <h5>- 🏠 How to reach me: [my homepage](https://cuiyixin555.github.io/)</h5>
+    <h5>- 🏠 How to reach me: <a href="https://cuiyixin555.github.io/">[my homepage]</a></h5>
     <h5>- 📖 Check my publications: [google scholar](https://scholar.google.com/citations?hl=en&user=EwhA8I4AAAAJ)</h5>
     <h5>- 📖 Check my projects:</h5>
     <h6>-    [camera-cuda](https://github.com/cuiyixin555/camera-cuda)</h6>
