@@ -22,14 +22,14 @@
     <h5>- 🔭 I’m currently working on GPU camera pipeline image processing with Level Zero, C for Metal (CM), DirectX11, DirectX12 and CUDA.</h5>
     <h5>- 🚀 Most of my projects are open-sourced at GitHub</h5>
     <h5>- 🏠 How to reach me: <a href="https://cuiyixin555.github.io/">[my homepage]</a></h5>
-    <h5>- 📖 Check my publications: [google scholar](https://scholar.google.com/citations?hl=en&user=EwhA8I4AAAAJ)</h5>
+    <h5>- 📖 Check my publications: <a href="https://scholar.google.com/citations?hl=en&user=EwhA8I4AAAAJ">[google scholar]</a></h5>
     <h5>- 📖 Check my projects:</h5>
-    <h6>-    [camera-cuda](https://github.com/cuiyixin555/camera-cuda)</h6>
-    <h6>-    [camera-supp](https://github.com/cuiyixin555/camera-supp)</h6>
-    <h6>-    [cmake_demo](https://github.com/cuiyixin555/cmake_demo)</h6>
+    <h6>-    <a href="https://github.com/cuiyixin555/camera-cuda">[camera-cuda]</a></h6>
+    <h6>-    <a href="https://github.com/cuiyixin555/camera-supp">[camera-supp]</a></h6>
+    <h6>-    <a href="https://github.com/cuiyixin555/cmake_demo">[cmake_demo]</a></h6>
     <h5>- 📖 Check books source code:</h5>
-    <h6>-    [GPU-Parallel-Program-Development-Using-CUDA](https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA)</h6>
-    <h6>-    [CUDA-Application-Design-and-Development](https://github.com/cuiyixin555/CUDA-Application-Design-and-Development)</h6>
+    <h6>-    <a href="https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA">[GPU-Parallel-Program-Development-Using-CUDA]</a></h6>
+    <h6>-    <a href="https://github.com/cuiyixin555/CUDA-Application-Design-and-Development">[CUDA-Application-Design-and-Development]</a></h6>
 
 ----
 
