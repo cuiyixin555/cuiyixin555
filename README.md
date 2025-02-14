@@ -50,10 +50,6 @@
 
 ----
 
-<img align="right" alt="GIF" src="https://github.com/cuiyixin555/cuiyixin555/blob/master/image/code.gif?raw=true" width="520" height="330" />
-
-
-
 ### 🌅Languages  
 
 <p align='left'><a><img height="45" src="https://skillicons.dev/icons?i=c,cpp,python,cuda&perline=5"></a>&nbsp; </p>
