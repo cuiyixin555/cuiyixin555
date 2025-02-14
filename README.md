@@ -43,7 +43,7 @@
 
 ### 🏗️Skill
 
-<p align='left'><a><img height="160" src="https://skillicons.dev/icons?i=github,pytorch,matlab,linux,cmake&perline=5"></a>&nbsp; </p>
+<p align='left'><a><img height="45" src="https://skillicons.dev/icons?i=github,pytorch,matlab,linux,cmake&perline=5"></a>&nbsp; </p>
 
 ----
 
