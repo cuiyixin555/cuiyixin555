@@ -16,6 +16,28 @@
 
 ----
 
+<li>
+Item 1
+    <ul>
+      <li>Subitem 1.1</li>
+      <li>Subitem 1.2</li>
+    </ul>
+</li>
+
+<li>Item 2</li>
+  
+<li>Item 3
+    <ul>
+      <li>Subitem 3.1</li>
+      <li>Subitem 3.2
+        <ul>
+          <li>Subitem 3.2.1</li>
+          <li>Subitem 3.2.2</li>
+        </ul>
+      </li>
+    </ul>
+</li>
+
 <div align="left">
     <h3>Hello, I am CUI Xin 👋</h3>
         <h5>- 👨🏼‍💻 I am a computer vision engineer at Intel Vision Tech Group (VTG), Intel China Research Center Co., Ltd.
@@ -30,21 +52,43 @@
         <h5>- 📖 Check my publications: 
             <a href="https://scholar.google.com/citations?hl=en&user=EwhA8I4AAAAJ">[google scholar]</a>
         </h5>
-    <h5>- 📖 Check my projects:</h5>
+    
         <div align="left">
-            <h6><a href="https://github.com/cuiyixin555/camera-cuda">[camera-cuda]</a>
-            </h6>
-            <h6><a href="https://github.com/cuiyixin555/camera-supp">[camera-supp]</a>
-            </h6>
-            <h6><a href="https://github.com/cuiyixin555/cmake_demo">[cmake_demo]</a>
-            </h6>
+            <li><h5>- 📖 Check my projects:</h5>
+                <ul>
+                    <li>
+                        <h6>
+                            <a href="https://github.com/cuiyixin555/camera-cuda">[camera-cuda]</a>
+                        </h6>
+                    </li>
+                    <li>
+                        <h6>
+                            <a href="https://github.com/cuiyixin555/camera-supp">[camera-supp]</a>
+                        </h6>
+                    </li>
+                    <li>
+                        <h6>
+                            <a href="https://github.com/cuiyixin555/cmake_demo">[cmake_demo]</a>
+                        </h6>
+                    </li>
+                </ul>
+            </li>
         </div>
-    <h5>- 📖 Check books source code:</h5>
         <div align="left">
-            <h6><a href="https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA">[GPU-Parallel-Program-Development-Using-CUDA]</a>
-            </h6>
-            <h6><a href="https://github.com/cuiyixin555/CUDA-Application-Design-and-Development">[CUDA-Application-Design-and-Development]</a>
-            </h6>
+            <li><h5>- 📖 Check books source code:</h5>
+                <ul>
+                    <li>
+                        <h6>
+                            <a href="https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA">[GPU-Parallel-Program-Development-Using-CUDA]</a>
+                        </h6>
+                    </li>
+                    <li>
+                        <h6>
+                            <a href="https://github.com/cuiyixin555/CUDA-Application-Design-and-Development">[CUDA-Application-Design-and-Development]</a>
+                        </h6>
+                    </li>
+                </ul>
+            </li>
         </div>
 </div>
 
