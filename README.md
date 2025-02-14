@@ -18,18 +18,18 @@
 
 <div align="left">
     <h3>Hello, I am CUI Xin 👋</h3>
-    <h5>⚫  👨🏼‍💻 I am a computer vision engineer at Intel Vision Tech Group (VTG), Intel China Research Center Co., Ltd.</h5>
-    <h5>⚫  🔭 I’m currently working on GPU camera pipeline image processing with Level Zero, C for Metal (CM), DirectX11, DirectX12 and CUDA.</h5>
-    <h5>⚫  🚀 Most of my projects are open-sourced at GitHub</h5>
-    <h5>⚫  🏠 How to reach me: [my homepage](https://cuiyixin555.github.io/)</h5>
-    <h5>⚫  📖 Check my publications: [google scholar](https://scholar.google.com/citations?hl=en&user=EwhA8I4AAAAJ)</h5>
-    <h5>⚫  📖 Check my projects:</h5>
-    <h6>⚫    [camera-cuda](https://github.com/cuiyixin555/camera-cuda)</h6>
-    <h6>⚫    [camera-supp](https://github.com/cuiyixin555/camera-supp)</h6>
-    <h6>⚫    [cmake_demo](https://github.com/cuiyixin555/cmake_demo)</h6>
-    <h5>⚫  📖 Check books source code:</h5>
-    <h6>⚫    [GPU-Parallel-Program-Development-Using-CUDA](https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA)</h6>
-    <h6>⚫    [CUDA-Application-Design-and-Development](https://github.com/cuiyixin555/CUDA-Application-Design-and-Development)</h6>
+    <h5>- 👨🏼‍💻 I am a computer vision engineer at Intel Vision Tech Group (VTG), Intel China Research Center Co., Ltd.</h5>
+    <h5>- 🔭 I’m currently working on GPU camera pipeline image processing with Level Zero, C for Metal (CM), DirectX11, DirectX12 and CUDA.</h5>
+    <h5>- 🚀 Most of my projects are open-sourced at GitHub</h5>
+    <h5>- 🏠 How to reach me: [my homepage](https://cuiyixin555.github.io/)</h5>
+    <h5>- 📖 Check my publications: [google scholar](https://scholar.google.com/citations?hl=en&user=EwhA8I4AAAAJ)</h5>
+    <h5>- 📖 Check my projects:</h5>
+    <h6>-    [camera-cuda](https://github.com/cuiyixin555/camera-cuda)</h6>
+    <h6>-    [camera-supp](https://github.com/cuiyixin555/camera-supp)</h6>
+    <h6>-    [cmake_demo](https://github.com/cuiyixin555/cmake_demo)</h6>
+    <h5>- 📖 Check books source code:</h5>
+    <h6>-    [GPU-Parallel-Program-Development-Using-CUDA](https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA)</h6>
+    <h6>-    [CUDA-Application-Design-and-Development](https://github.com/cuiyixin555/CUDA-Application-Design-and-Development)</h6>
 
 ----
 
