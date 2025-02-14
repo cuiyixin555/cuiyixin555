@@ -53,12 +53,12 @@
 <div align="left">
     <h3>🌅Languages</h3>
 </div>
-<p align='left'><a><img height="45" src="https://skillicons.dev/icons?i=c,cpp,python,cuda&perline=5"></a><a><img height="60" src="https://github.com/cuiyixin555/cuiyixin555/blob/master/image/cuda.jpg"></a>&nbsp;</p>
+<p align='left'><a><img height="45" src="https://skillicons.dev/icons?i=c,cpp,python&perline=5"></a><a><img height="70" src="https://github.com/cuiyixin555/cuiyixin555/blob/master/image/cuda.jpg"></a>&nbsp;</p>
 
 <div align="left">
     <h3>🏗️Skill</h3>
 </div>
-<p align='left'><a><img height="45" src="https://skillicons.dev/icons?i=github,pytorch,matlab,linux,cmake&perline=5"></a><a><img height="60" src="https://github.com/cuiyixin555/cuiyixin555/blob/master/image/cuda.jpg"></a>&nbsp;</p>
+<p align='left'><a><img height="45" src="https://skillicons.dev/icons?i=github,pytorch,matlab,linux,cmake&perline=5"></a><a><img height="70" src="https://github.com/cuiyixin555/cuiyixin555/blob/master/image/cuda.jpg"></a>&nbsp;</p>
 
 ----
 
