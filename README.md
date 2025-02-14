@@ -50,7 +50,7 @@
 
 ----
 
-<img align="right" alt="GIF" src="https://github.com/cuiyixin555/cuiyixin555/blob/main/image/code.gif?raw=true" width="520" height="330" />
+<img align="right" alt="GIF" src="https://github.com/cuiyixin555/cuiyixin555/blob/master/image/code.gif?raw=true" width="520" height="330" />
 
 
 
