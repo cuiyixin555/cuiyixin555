@@ -16,7 +16,7 @@
 
 ----
 
-<div align="center">
+<div align="left">
     <h3>Hello, I am CUI Xin 👋</h3>
     <h5>⚫  👨🏼‍💻 I am a computer vision engineer at Intel Vision Tech Group (VTG), Intel China Research Center Co., Ltd.</h5>
     <h5>⚫  🔭 I’m currently working on GPU camera pipeline image processing with Level Zero, C for Metal (CM), DirectX11, DirectX12 and CUDA.</h5>
