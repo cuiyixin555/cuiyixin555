@@ -8,7 +8,7 @@
 
 
 
- <div align=left><span><img src="https://github-readme-stats.vercel.app/api?username=cuiyixin555&show_icons=true&theme=tokyonight" height=180/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojin-yan&exclude_repo=OpenVINO-CSharp-API.docs,guojin-yan.github.io&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" height=180/></span></div>
+ <div align=left><span><img src="https://github-readme-stats.vercel.app/api?username=cuiyixin555&show_icons=true&theme=tokyonight" height=180/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuiyixin555,cuiyixin555.github.io&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" height=180/></span></div>
 
 ----
 
