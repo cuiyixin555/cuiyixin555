@@ -50,12 +50,14 @@
 
 ----
 
-### 🌅Languages  
-
+<div align="left">
+    <h3>🌅Languages</h3>
+</div>
 <p align='left'><a><img height="45" src="https://skillicons.dev/icons?i=c,cpp,python,cuda&perline=5"></a>&nbsp; </p>
 
-### 🏗️Skill
-
+<div align="left">
+    <h3>🏗️Skill</h3>
+</div>
 <p align='left'><a><img height="45" src="https://skillicons.dev/icons?i=github,pytorch,matlab,linux,cmake&perline=5"></a>&nbsp; </p>
 
 ----
